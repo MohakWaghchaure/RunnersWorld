@@ -1,0 +1,5 @@
+com\controller\ProductController.class
+com\controller\CategoryController.class
+com\controller\SignupController.class
+com\controller\IndexController.class
+com\controller\SupplierController.class
