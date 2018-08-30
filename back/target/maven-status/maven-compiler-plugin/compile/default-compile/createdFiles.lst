@@ -1,0 +1,14 @@
+com\daoimpl\ProductDaoImpl.class
+com\sports\back\App.class
+com\model\Category.class
+com\daoimpl\UserInfoDaoImpl.class
+com\dao\CategoryDao.class
+com\hbconfig\HibernateConfig.class
+com\daoimpl\CategoryDaoImpl.class
+com\model\Product.class
+com\dao\ProductDao.class
+com\dao\UserInfoDao.class
+com\model\Supplier.class
+com\model\UserInfo.class
+com\dao\SupplierDao.class
+com\daoimpl\SupplierDaoImpl.class
